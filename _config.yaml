@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Computational Mechanics Lab 
+subtitle: Sun Yat-sen University
+description: The Computational Mechanics Lab is led by Professor Qinghe Yao at the School of Aeronautics and Astronautics, Sun Yat-sen University (SYSU). The lab's research revolves around computational mechanics, large-scale parallel computing, and data-driven numerical algorithms, with a strong focus on solving complex engineering and multiphysics problems.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
